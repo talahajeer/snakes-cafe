@@ -1,2 +1,3 @@
 lab 01 features:
-https://github.com/talahajeer/snakes-cafe/pull/1
+
+[lab01](https://github.com/talahajeer/snakes-cafe/pull/1)
